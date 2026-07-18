@@ -106,7 +106,7 @@ export default function HomePage() {
             storytelling and creative direction. Currently Head of Storytelling
             at ABI Attachments, he brings a photographer&apos;s eye to brand
             narrative, documentary campaigns, and visual identity. He lives in
-            Mishawaka, Indiana with his family.
+            Goshen, Indiana with his family.
           </p>
         </div>
         <Link href="/about" className="link-arrow">

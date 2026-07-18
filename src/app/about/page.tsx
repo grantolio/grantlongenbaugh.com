@@ -47,7 +47,7 @@ export default function AboutPage() {
             teach.
           </p>
           <p className="mb-5 leading-relaxed">
-            Grant lives in Mishawaka, Indiana with his wife, young child, and
+            Grant lives in Goshen, Indiana with his wife, young child, and
             dog.
           </p>
           <div className="mt-8">
